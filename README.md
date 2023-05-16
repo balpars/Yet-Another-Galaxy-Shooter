@@ -1,4 +1,4 @@
-# Roguelike Dungeon Explorer
+# Yet-Another-Galaxy-Shooter
 
 This game is based on a 2D space-shooter game. It will have a story, factions, allied ships, more sophisticated enemies and much more. I will implement these as I learn.
  
