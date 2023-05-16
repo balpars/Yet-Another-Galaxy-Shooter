@@ -4,7 +4,7 @@ This game is based on a 2D space-shooter game. It will have a story, factions, a
  
  ## Gameplay
  
-As of now, this prototype is just an space-shooter game. Later versions will include many more mechanics.
+As of now, this prototype is just another space-shooter game. Later versions will include many more mechanics.
 
  ## Development
  
@@ -18,6 +18,6 @@ As of now, this prototype is just an space-shooter game. Later versions will inc
  - [ ] Random Events
  - [ ] New Enemy types
  - [ ] Enemy Attacks and Special Attacks
- - [ ] Levels
+ - [ ] New Levels
  - [ ] Skills
  
