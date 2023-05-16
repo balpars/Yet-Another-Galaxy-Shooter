@@ -12,6 +12,7 @@ As of now, this prototype is just an space-shooter game. Later versions will inc
  
  ## To Play on Browser
  
+ https://balpars.github.io/Yet-Another-Galaxy-Shooter/
 
  ## Future improvements
  - [ ] Random Events
